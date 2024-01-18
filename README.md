@@ -22,7 +22,7 @@ Check out the [link](https://flawless-ecommerce-next-js-nine.vercel.app/) for li
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/IPH-Technologies-Pvt-Ltd/Flawless-ecommerce-nextJS.git
+git clone https://github.com/lekha-mishra/flawless-ecommerce-nextJS
 cd flawless-e-commerce
 2. Install the dependencies: npm install
 3. Start the development server: npm run dev
